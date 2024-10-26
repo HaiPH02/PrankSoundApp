@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  HappyMovie
+
+  Created by Hai Pham on 16/10/2024.
+  
+*/
+
+"english" = "English";
+"vietnamese" = "Vietnamese";
+
+"helloWorld" = "Hello World";
+"locked" = "Locked";
+"scanFaceID" = "Scan faceID to open";
+
+"error" = "Error!";
+"cancel" = "Cancel";
+"home" = "Home";
+
+"upcoming" = "Upcoming";
+"nowPlaying" = "Now Playing";
+"viewAll" = "View All";
+"trending" = "Trending";
+"topRated" = "Top Rated";
+
+"movie" = "Movie";
+"tv" = "TV";
+"search" = "Search";
+"discover" = "Discover";
+"setting" = "Settings";
+
+"vote" = "Votes";
+"min" = "Min";
+
+"cast" = "Casts";
+"crews" = "Crews";
+"findOutMore" = "Find out more about";
+
+"smimilar" = "You may also like";
+"orderNow" = "Order now";
+
+"searchMovie" = "Search your movies here";
+"imagePlaceholderText" = "No Image";
+
+"hotTrend" = "Hot trend";
+
+"fakeCall" = "Fake call";
+
+"favorite" = "Favorite";
+
+"voiodChanger" = "Voicd Changer";

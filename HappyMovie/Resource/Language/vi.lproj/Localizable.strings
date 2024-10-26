@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  HappyMovie
+
+  Created by Hai Pham on 16/10/2024.
+  
+*/
+
+"english" = "Tiếng anh";
+"vietnamese" = "Tiếng việt";
+
+"helloWorld" = "Xin chào";
+"locked" = "Đã bị khoá";
+"scanFaceID" = "Quét faceID để mở";
+
+"error" = "Đã có lỗi xảy ra!";
+"cancel" = "Huỷ";
+"home" = "Trang chủ";
+
+"upcoming" = "Phim sắp chiếu";
+"nowPlaying" = "Đang chiếu";
+"viewAll" = "Xem tất cả";
+"trending" = "Xu hướng";
+"topRated" = "Phim nổi tiếng";
+
+"movie" = "Phim";
+"tv" = "Truyền hình";
+"search" = "Tìm kiếm";
+"discover" = "Khám phá";
+"setting" = "Cài đặt";
+
+"vote" = "Phiếu";
+"min" = "Phút";
+
+"cast" = "Diễn viên";
+"crews" = "Sản xuất";
+
+"findOutMore" = "Tìm hiểu thêm về";
+
+"smimilar" = "Có thể bạn sẽ thích";
+"orderNow" = "Đặt vé ngay";
+
+"searchMovie" = "Tìm kiếm phim tại đây";
+"imagePlaceholderText" = "Không tìm thấy ảnh";
+
+"hotTrend" = "Hot trend";
+
+"fakeCall" = "Fake call";
+
+"favorite" = "Favorite";
+
+"voiodChanger" = "Voicd Changer";
